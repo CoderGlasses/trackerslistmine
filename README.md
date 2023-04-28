@@ -1,4 +1,4 @@
-# ngosang/trackerslist
+# Rechal/trackerslist
 
 [![Last update](https://img.shields.io/badge/Last%20update-2023/04/28-green.svg)](#)
 [![Public trackers](https://img.shields.io/badge/Public%20trackers-126-blue.svg)](#)
